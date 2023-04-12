@@ -60,7 +60,7 @@ def run_joiner():
 run_joiner()
 ```
 
-This code is from [this tutorial](https://youtu.be/u9P2K2pNNJQ). If you have any doubts regarding this, feel free to [contact me (https://discordapp.com/users/747342349449035786).
+This code is from [this tutorial](https://youtu.be/u9P2K2pNNJQ). If you have any doubts regarding this, feel free to [contact me ](https://discordapp.com/users/747342349449035786).
 
 ---
 
