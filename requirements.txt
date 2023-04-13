@@ -1,4 +1,4 @@
-requests
+request
 websocket
 websocket-client
 Flask
